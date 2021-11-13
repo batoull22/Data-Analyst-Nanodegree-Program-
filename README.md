@@ -2,5 +2,6 @@
 
 ### Collection of Projects of Udacity Data analysis Nanodegree.
 
-<img src="DNND.png" > </img> DNND Certificate 
+#### DNND Certificate 
+<img src="DNND.png" alt="DNND Certificate " width="128" height="128"> 
 
