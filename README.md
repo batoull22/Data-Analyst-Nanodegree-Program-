@@ -2,11 +2,11 @@
 
 ### Collection of Projects of Udacity Data analysis Nanodegree.
 
-#### DAND Certificate 
+
 ![Certificate](DNND.png)
 
 
-Project Lists:
+## Project Lists:
 
 - Project 1:[ Exploring Weather Trends](https://github.com/batoull22/Data-Analyst-Nanodegree-Program-/tree/main/Exploring%20Weather%20Trends)
 
