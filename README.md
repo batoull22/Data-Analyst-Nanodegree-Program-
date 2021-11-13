@@ -2,6 +2,6 @@
 
 ### Collection of Projects of Udacity Data analysis Nanodegree.
 
-#### DNND Certificate 
+#### DAND Certificate 
 ![Certificate](DNND.png)
 
